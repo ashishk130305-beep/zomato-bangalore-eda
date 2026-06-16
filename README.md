@@ -68,7 +68,7 @@ zomato-bangalore-eda/
 
 ├── zomato_eda.ipynb        # Main analysis notebook
 
-└── zomato_cleaned.ipynb    # Cleaned dataset (output of cleaning pipeline)
+└── zomato_cleaned.csv    # Cleaned dataset (output of cleaning pipeline)
 
 ---
 
